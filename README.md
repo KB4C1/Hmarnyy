@@ -7,7 +7,7 @@ Telegram bot for quick weather updates in your city with personal profiles.
 - `/start` — greeting + current weather (if city is saved)
 - `/weather [city]` — instant weather info
 - `/profile` — manage profile, change name/city, view search history
-- City selection from full Ukrainian list (460+ cities)
+- City selection from full Ukrainian list
 - Persistent profile and search history storage
 
 ## 🛠 Installation
